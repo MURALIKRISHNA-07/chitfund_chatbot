@@ -7,7 +7,7 @@ AI-powered chatbot that helps customers understand chit funds, get personalized 
 The following video demonstrates the working of the ChitFund Chatbot application, including user interaction and chatbot responses.
 
 ▶️ Demo Video:
-https://youtu.be/5fx8nndInTA
+https://youtu.be/oTr_VzkE_U4
 
 ## Features
 
