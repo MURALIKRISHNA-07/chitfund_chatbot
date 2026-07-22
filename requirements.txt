@@ -1,0 +1,9 @@
+streamlit
+google-genai
+qdrant-client
+pymongo
+pymupdf
+pytesseract
+pillow
+python-dotenv
+requests

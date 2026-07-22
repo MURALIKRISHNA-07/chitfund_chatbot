@@ -1,0 +1,81 @@
+
+{
+  "groups": [
+    {
+      "duration": 20,
+      "members": 20,
+      "schemes": [
+        {
+          "value": 100000,
+          "monthly": 5000
+        },
+        {
+          "value": 200000,
+          "monthly": 10000
+        },
+        {
+          "value": 300000,
+          "monthly": 15000
+        },
+        {
+          "value": 500000,
+          "monthly": 25000
+        }
+      ]
+    },
+    {
+      "duration": 30,
+      "members": 30,
+      "schemes": [
+        {
+          "value": 300000,
+          "monthly": 10000
+        },
+        {
+          "value": 500000,
+          "monthly": 16667
+        },
+        {
+          "value": 1000000,
+          "monthly": 33333
+        }
+      ]
+    },
+    {
+      "duration": 40,
+      "members": 40,
+      "schemes": [
+        {
+          "value": 500000,
+          "monthly": 12500
+        },
+        {
+          "value": 1000000,
+          "monthly": 25000
+        },
+        {
+          "value": 2000000,
+          "monthly": 50000
+        }
+      ]
+    },
+    {
+      "duration": 50,
+      "members": 50,
+      "schemes": [
+        {
+          "value": 500000,
+          "monthly": 10000
+        },
+        {
+          "value": 1000000,
+          "monthly": 20000
+        },
+        {
+          "value": 2500000,
+          "monthly": 50000
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+PAGE 1:
+How Does A Chit Fund Work? 
+Simply put, the chit fund begins on a specified date and continues for the number of 
+months equal to the number of subscribers. member's contribute their monthly 
+installments to the pot, and a reverse auction is conducted each month allowing 
+member's to bid for the Prize Money. 
+The subscriber willing to take the lowest sum with the lowest bid is declared the winner 
+and receives the Prize Money for that month. The balance amount is distributed as a 
+dividend among all member's after deducting the Foreman’s Commission (5%). The 
+process is repeated each month, thus allowing each member to win the Prize Money. A 
+Chit fund offers you the unique advantage of allowing you to borrow from your future 
+savings. 
+Example: 
+Assume a chit fund scheme with 50 member's that will run for 50 months, with each 
+paying a monthly instalment of ₹10,000/- to create a ₹5,00,000/- pot. When the auction 
+is announced, the member who bids the highest discount wins the Bid. (40% is the 
+maximum discount anyone can bid as per Law). 
+●​ Number of member's in the chit fund scheme – 50 
+●​ Duration– 50 months 
+●​ Monthly instalment payable by each member– Rs. 10,000/- 
+●​ Total pot value– Rs. 5,00,000/- (50 member's x 10,000) 
+In this example, let us assume the winning Bid offered a 35% discount. 
+●​ Discount offered by the winning Bid – 35% 
+●​ Amount of discount– Rs. 1,75,000/- (35% of 5,00,000) 
+●​ Amount received by the winner – Rs. 3,25,000/- (5,00,000 less 1,75,000) 
+The balance amount is distributed equally among the member's after deducting the Foreman’s 
+commission. 
+●​ Foreman’s commission – 5-7% = Rs. 25000/- 
+●​ Total Dividend– Rs. 175000 less Rs. 25000 = Rs. 150000/- 
+●​ Dividend credited to each member’s account – 150000/50 = Rs. 3000/- 
+So in the following month, the member will have to pay only ₹7,000 (₹10,000 - ₹3,000) instead of 
+₹10,000. 
+
+
+PAGE 2:
+Chit Terminology (Explained With The Help Of The Above Example) 
+Instalment = Monthly Subscription =₹10,000 
+Period = Number of months = 50 
+Gross Chit Amount = Total of Instalments by all member's = ₹5 lac (₹10,000x50) 
+Bid offer Amount = Amount willing to be foregone by the subscriber to win the 
+prize Money = ₹1,75,000 
+(if we consider Bid = 35%). 
+Min Bid Amount = 5% (Foreman Commission), 
+Max Bid Amount = 30% (for 30 & 40 months Chit Fund) and 35% (for 50 months 
+Chit Fund), 
+Net Amount (Prize Money) = Chit Amount minus Bid-Offer Amount (₹5,00,000 - 
+₹1,75,000 = ₹3,25,000) 
+Foreman Commission (FC) = 5% of the Gross Chit Amount (₹25,000) 
+Total Dividend = Bid offer Amount minus Foreman Commission (₹1,75000 - 
+₹25,000 = ₹1,50,000). 
+Dividend per Customer (Share of Discount) = Total Dividend/No of Subscribers 
+(₹1,50,000/50 = ₹3,000) 
+Next Month Instalment = Gross Instalment minus Dividend (₹10,000-₹3,000 = 
+₹7,000) 
+
+
+PAGE 3:
+​
+​
+If someone waits to win the Prize Money at the end of the period 
+Total Amount Invested = ₹4,19,500 
+Total Amount Received = ₹5 lakhs  
+
+
+PAGE 4:
+Profit = ₹52,500 
+Note:- The above calculation is only an illustration; the actual return is determined by 
+the auction discount decided by the Chit Fund subscribers. 
+Available schemes json example 
+ 
+{ 
+  "groups": [ 
+    { 
+      "duration": 20, 
+      "members": 20, 
+      "schemes": [ 
+        { 
+          "value": 100000, 
+          "monthly": 5000 
+        }, 
+        { 
+          "value": 200000, 
+          "monthly": 10000 
+        }, 
+        { 
+          "value": 300000, 
+          "monthly": 15000 
+        }, 
+        { 
+          "value": 500000, 
+          "monthly": 25000 
+        } 
+      ] 
+    } 
+  ] 
+} 
+ 
+Activities after Receiving Prior Sanction from The Registrar of Chits 
+●​ Following receipt of the Prior Sanction, the Foreman can announce the launch of the Chit 
+Fund and begin selling tickets. 
+●​ After selling all of the tickets, the Foreman will register the agreement with the Registrar 
+and obtain the Commencement Certificate to hold the first auction. 
+●​ The contribution will be made in the form of a fixed monthly instalment (₹10,000 per 
+month in the above example). 
+
+
+PAGE 5:
+●​ From the second month onwards, the member's will be able to bid for the Prize Money 
+from the collected funds through a reverse auction. The Highest Bidder/Prized 
+Subscriber wins the Prize Money for that month. 
+●​ 40% is the maximum discount anyone can quote (as per Law). 
+●​ As per the above example, the auction is confirmed at a 35% discount. (Discount amount 
+is ₹1,75,000/-) 
+●​ So, out of ₹5,00,000/- pooled, ₹3.25,000/- goes to the highest bidder (Prized Subscriber), 
+5% of ₹5,00,000/- (₹25,000) goes to the Foreman (Muthoot Chits), and the balance 
+₹1,50,000/- will be equally distributed to all the 50 member's. 
+●​ Each member will get ₹3,000 (₹1,50,000/50) as their income, which is called Dividend 
+(share of Dividend), and the same will be credited to their Chit account. 
+●​ So next month, the subscriber needs to pay only ₹7,000 (₹10,000 - ₹3,000) instead of 
+₹10,000. 
+Participating in The Auction 
+A member can participate in the auction for the Prize Money from the second month onwards. 
+The first month's Gross Chit Amount goes to the company. To be eligible to make a bid, the 
+subscriber should have paid all the installments and not have any pending ones. 
+Options to Participate in the Auction 
+A subscriber can participate in the auction in the following ways. 
+1.​ Direct Participation:​
+The member can either participate online or personally attend the auction in the 
+Chit office on the date and time specified in the Chit Fund agreement. 
+2.​ Bid Offer Letter:​
+The subscriber needs to fill in all the details in the letter before signing and 
+sending it to the Chit's office. 
+3.​ Bid Authorization Letter:​
+The customer can send a proxy to participate in the auction on their behalf. The 
+proxy must carry the authorization letter & valid ID proof to participate in the 
+auction 
+Key Benefits of Chit Funds 
+Chit funds provide a unique combination of savings, investment, and financial support, 
+making them a popular choice for individuals, families, and business owners. Some of 
+the key benefits include: 
+
+
+PAGE 6:
+1. Immediate Financial Assistance 
+Chit funds provide members with access to a lump-sum amount whenever they need 
+financial support. The funds can be used without restrictions, allowing members to 
+meet personal, family, or business requirements. 
+2. Easy Accessibility 
+Joining a chit fund is simple and convenient compared to traditional financial 
+institutions. It generally involves minimal documentation and a straightforward 
+enrollment process, making it accessible to a wide range of people. 
+3. Disciplined Savings Habit 
+Chit funds encourage regular monthly savings and help members build financial 
+discipline without depending on market fluctuations. They are suitable for individuals 
+who want a structured approach to saving. 
+4. Dual Benefit of Savings and Credit 
+Chit funds offer the advantage of both systematic savings and easy access to credit. 
+Members can continue saving regularly while also having the option to receive the prize 
+amount whenever required. 
+5. Flexible Usage of Funds 
+The amount received from a chit fund can be used for any personal or professional 
+purpose. Members can utilize the funds for emergencies, weddings, education, medical 
+expenses, home improvements, or other financial needs. 
+6. Business Finance Support 
+Chit funds are a valuable source of finance for entrepreneurs and business owners. The 
+prize amount can be used to start a new business, manage working capital, purchase 
+equipment, expand operations, or handle unexpected financial requirements. 
+
+
+PAGE 7:
+7. Financial Inclusion 
+Chit funds provide financial support to individuals who may not easily qualify for 
+traditional bank loans, especially those working in the informal sector. They offer a 
+simple and reliable financing option without complex procedures. 
+8. Regular Returns Through Dividends 
+Members can benefit from monthly dividends generated through the chit auction 
+process. These dividends reduce the monthly contribution burden and improve the 
+overall value received from the chit. 
+9. Emergency Financial Reserve 
+Chit funds act as a dependable financial backup during unexpected situations. 
+Members can access funds quickly for urgent needs without lengthy approval 
+processes or complicated paperwork. 
+10. Higher Return Potential 
+Depending on auction discounts and participation, chit funds may provide better returns 
+compared to traditional savings options such as fixed deposits. They combine savings 
+growth with financial flexibility. 
+11. Social Bonding and Community Support 
+Chit funds often bring together people from the same locality, workplace, or community. 
+This creates trust, cooperation, and stronger social connections among members. 
+12. Freedom and Convenience 
+Unlike many financial products that restrict the usage of funds, chit fund members have 
+the freedom to use their winnings according to their priorities and goals. 
+13. Suitable for Different Financial Needs 
+
+
+PAGE 8:
+Chit funds are beneficial for housewives, salaried employees, small business owners, 
+and families looking for a simple way to save money while maintaining access to funds 
+when needed. 
+. 
+ 
