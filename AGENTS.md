@@ -168,3 +168,10 @@ chitfund_chatbot/
 └── documents/
     └── chitfunds.pdf
 ```
+## Design Principles
+
+- AI is responsible for language understanding, intent detection, and response generation.
+- Financial calculations are deterministic and implemented entirely in Python.
+- RAG is used exclusively for knowledge retrieval and explanations.
+- Business rules are separated from AI prompts to improve reliability and maintainability.
+- Each agent has a single responsibility, making the system easier to test and extend.
