@@ -1,4 +1,3 @@
-# AGENTS.md
 # Chit Fund Adviser Chatbot
 
 ## Project Overview
